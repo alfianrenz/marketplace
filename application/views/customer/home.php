@@ -13,7 +13,7 @@
                 <h1 style="color:#363636;"><b>Waroeng</b> <span style="color:#0B88EE"><b>Mahasiswa</b></span></h1>
             </div>
             <div class="herobanner-box" style="margin-left:50px">
-                <p style="color:#7e7e7e">Pasarnya mahasiswa Universitas Catur Insan Cendekia</p>
+                <p style="color:#7e7e7e">Pasar mahasiswa Universitas Catur Insan Cendekia</p>
             </div>
             <div class="herobanner-box" style="margin-left:50px">
                 <a href="<?= site_url('profil'); ?>" class="ho-button">
